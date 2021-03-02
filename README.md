@@ -1,4 +1,4 @@
-<h1>Controle de Painéis</h1>
+<h1>Controle de Painéis Elétricos</h1>
 <p>Aplicativo que permite realizar o CRUD de painéis, onde o usuário após efetuar o cadastro e login, poderá usufruir das funções da aplicação.</p>
 
 <h3>Projeto concluído</h3>
@@ -10,7 +10,7 @@
   <br>
 - [x] Autenticação de usuário
   <br>
-- [ ] Cadastro de clintes
+- [ ] Cadastro de clientes
 
 
 <h3>Pré-requisitos:</h3>
